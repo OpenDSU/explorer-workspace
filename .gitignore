@@ -7,6 +7,8 @@ apihub-root/*
 apihub-root/external-volume/*
 !apihub-root/external-volume/config
 !apihub-root/index.html
+!apihub-root/assets
+!apihub/read.me
 
 dossier-explorer-ssapp
 node_modules
